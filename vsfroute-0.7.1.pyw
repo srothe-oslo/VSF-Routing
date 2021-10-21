@@ -7,7 +7,7 @@
 # Den Inhalt der erstellten Textdatei komplett in die                #
 # VSF Situationsdatei kopieren.                                      #
 #                                                                    #
-# Version:0.7.1          Datum:08.04.2021          Autor: Stefan Rothe #
+# Version:0.7.1          Datum:09.08.2021        Autor: Stefan Rothe #
 #                                                                    #
 # Release History:                                                   #
 #                                                                    #
