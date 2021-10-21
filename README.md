@@ -1,9 +1,9 @@
-Dieser kleine Parser uebersetzt eine mit OpenSeaMap.org oder OpenCPN erstellte KML-Wegpunktdatei in das VSF oder VS:NG Format. 
-Den Inhalt der erstellten Textdatei komplett in die VSF Situationsdatei kopieren. 
- 
+Diese kleine App uebersetzt eine mit <b>OpenSeaMap</b> (https://www.openseamap.org) oder <b>OpenCPN</b> (https://opencpn.org) erstellte KML-Wegpunktdatei in das <b>Vehicle Simulator</b> oder <b>Virtual Sailor:NG</b> (VSF bzw. VS:NG) Wegpunkt Format. (VS:NG -> https://www.hangsim.com/virtual-sailor/ ; VSF -> https://www.hangsim.com/vehicle-simulator/)
+Den Inhalt der erstellten Textdatei komplett in die VSF bzw VS:NG Situationsdatei kopieren. 
+<p/>
 English Version:
-This small parser reformats KML waypointdata created with OpenSeaMap (https://www.openseamap.org) or with OpenCPN (https://opencpn.org) into valid <b>Vehicle Simulator</b> or Virtual Sailor:NG (VSF and/or VS:NG, respectively) waypoint lists. (VS:NG -> https://www.hangsim.com/virtual-sailor/ ; VSF -> https://www.hangsim.com/vehicle-simulator/)
+This small app reformats KML waypointdata created with <b>OpenSeaMap</b> (https://www.openseamap.org) or with <b>OpenCPN</b> (https://opencpn.org) into valid <b>Vehicle Simulator</b> or <b>Virtual Sailor:NG</b> (VSF and/or VS:NG, respectively) waypoint lists. (VS:NG -> https://www.hangsim.com/virtual-sailor/ ; VSF -> https://www.hangsim.com/vehicle-simulator/)
 Copy the complete content of the output file (or directly from the in-app editor window) into your appropriate VSF/VS:NG situation file.
-Interface is in German langauge for the time being, but I am sure you will be able to identify what's going on ;-).
-
-This script is free as free beer :-)
+Interface is in German langauge for the time being, but I am sure you will be able to find out what's going on ;-).
+<p/>
+<b><i>This script is free as free beer :-)</i></b>
