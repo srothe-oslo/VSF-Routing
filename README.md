@@ -4,6 +4,6 @@ Den Inhalt der erstellten Textdatei komplett in die VSF bzw VS:NG Situationsdate
 English Version:
 This small Python Script reformats KML waypointdata created with <b>OpenSeaMap</b> (https://www.openseamap.org) or with <b>OpenCPN</b> (https://opencpn.org) into valid <b>Vehicle Simulator</b> or <b>Virtual Sailor:NG</b> (VSF and/or VS:NG, respectively) waypoint lists. (VS:NG -> https://www.hangsim.com/virtual-sailor/ ; VSF -> https://www.hangsim.com/vehicle-simulator/)
 Copy the complete content of the output file (or directly from the in-app editor window) into your appropriate VSF/VS:NG situation file.
-Interface is in German langauge for the time being, but I am sure you will be able to find out what's going on ;-). Python 3.x is needed to run this script (doubleklick the script file).
+Interface is in German language for the time being, but I am sure you will be able to find out what's going on ;-). Python 3.x is needed to run this script (doubleklick the script file).
 <p/>
 <b><i>This script is free as free beer :-)</i></b>
