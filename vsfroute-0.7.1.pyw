@@ -3,7 +3,7 @@
 # VSF-Routing                                                        #
 #                                                                    #
 # Dieser kleine Parser uebersetzt eine mit OpenSeaMap.org oder       #
-# OpenCPN erstellte KML-Wegpunktdatei in das VSF Format.             #
+# OpenCPN erstellte KML-Wegpunktdatei in das VSF oder VS:NG Format.  #
 # Den Inhalt der erstellten Textdatei komplett in die                #
 # VSF Situationsdatei kopieren.                                      #
 #                                                                    #
