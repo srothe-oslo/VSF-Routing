@@ -162,7 +162,7 @@ class VSFRoute():
 		vsfWP.strip()
 		# Dateioperationen
 		if (len(vsfWP)>0):
-			out=fd.asksaveasfile(title='Wegpunkte speichern',mode='w', defaultextension=".txt",)
+			out=fd.asksaveasfile(title='Save Waypoints',mode='w', defaultextension=".txt",)
 			out.write(vsfWP)
 			out.close()
 			self.editor.delete('1.0', END)
