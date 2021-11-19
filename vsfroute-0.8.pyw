@@ -46,7 +46,7 @@ class VSFRoute():
 		self.Helv10Bold = 'Helvetica 10 bold'
 		
 		# Anwendungsfenster einrichten
-		master.title('VSF-Waypoint Konverter')
+		master.title('VSF-Waypoint Converter')
 		master.geometry("720x600")
 		
 		# Menueleiste
@@ -107,7 +107,7 @@ class VSFRoute():
 	def konvertieren(self):
 		# KML Datei mit Koordinaten in Dezimalgrad einlesen
 		alert="" # Warnung initialisieren
-		f=fd.askopenfile(title='KML Datei oeffnen',filetypes=[('KML Files', '*.kml')])
+		f=fd.askopenfile(title='Open KML File',filetypes=[('KML Files', '*.kml')])
 		app.KMLfile = f.name
 		if f:
 			kml=minidom.parse(f) #kml-Datei in DOM parsen
