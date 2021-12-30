@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ######################################################################
 #                                                                    #
 # VSF-Routing                                                        #
@@ -180,7 +179,6 @@ root = Tk() #Tk-Objekt definieren
 app = VSFRoute(root) #Laufzeitumgebung
 root.mainloop() # Instanz einrichten
 
-=======
 ######################################################################
 #                                                                    #
 # VSF-Routing                                                        #
@@ -361,5 +359,3 @@ class VSFRoute():
 root = Tk() #Tk-Objekt definieren
 app = VSFRoute(root) #Laufzeitumgebung
 root.mainloop() # Instanz einrichten
-
->>>>>>> 3142c27d7c307acec50b81848f7e385e1d6948bb
